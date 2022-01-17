@@ -16,7 +16,7 @@ HTML bir dizi öğeden oluşur
 HTML öğeleri, tarayıcıya içeriğin nasıl görüntüleneceğini söyler
 HTML öğeleri, "bu bir başlıktır", "bu bir paragraftır", "bu bir bağlantıdır" gibi içerik parçalarını etiketler.
 
-
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
 
 Example Explained
 The <!DOCTYPE html> declaration defines that this document is an HTML5 document
