@@ -16,8 +16,8 @@ HTML bir dizi öğeden oluşur
 HTML öğeleri, tarayıcıya içeriğin nasıl görüntüleneceğini söyler
 HTML öğeleri, "bu bir başlıktır", "bu bir paragraftır", "bu bir bağlantıdır" gibi içerik parçalarını etiketler.
 
-    -----------------------------------------------------------------------------------------                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
-----------------------------------------------------------------------------------------------------
+****************************************************************************************************************
+****************************************************************************************************************
 Example Explained
 The <!DOCTYPE html> declaration defines that this document is an HTML5 document
 The <html> element is the root element of an HTML page
@@ -26,8 +26,10 @@ The <title> element specifies a title for the HTML page (which is shown in the b
 The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
 The <h1> element defines a large heading
 The <p> element defines a paragraph
------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------
+
+    
+****************************************************************************************************************
+****************************************************************************************************************
  Örnek Açıklama
 Beyanname , <!DOCTYPE html>bu belgenin bir HTML5 belgesi olduğunu tanımlar
 Öğe , <html>bir HTML sayfasının kök öğesidir
